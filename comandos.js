@@ -353,329 +353,329 @@ const comandos = [
         idDispositivo: "TLW2-12BL",
         dispositivo: "TLW2-12BL",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLW2-12BL",
         dispositivo: "TLW2-12BL",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLW2-12BL",
         dispositivo: "TLW2-12BL",
         descripcion: "BLOQUEO DE MOTOR",
-        comando: "RELAY,1#",
+        comando: "RELAY,0000,1#",
         notas: ""
     },
     {
         idDispositivo: "TLW2-12BL",
         dispositivo: "TLW2-12BL",
         descripcion: "HABILITADO DE MOTOR",
-        comando: "RELAY,0#",
+        comando: "RELAY,0000,0#",
         notas: ""
     },
     {
         idDispositivo: "TLW2-12BL",
         dispositivo: "TLW2-12BL",
         descripcion: "ACTIVAR BUZZER",
-        comando: "DOUT2,1#",
+        comando: "DOUT2,0000,1#",
         notas: ""
     },
     {
         idDispositivo: "TLW2-12BL",
         dispositivo: "TLW2-12BL",
         descripcion: "DESACTIVAR BUZZER",
-        comando: "DOUT2,0#",
+        comando: "DOUT2,0000,0#",
         notas: ""
     },
     {
         idDispositivo: "TLW2-12B",
         dispositivo: "TLW2-12B",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLW2-12B",
         dispositivo: "TLW2-12B",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLW2-12B",
         dispositivo: "TLW2-12B",
         descripcion: "BLOQUEO DE MOTOR",
-        comando: "RELAY,1#",
+        comando: "RELAY,0000,1#",
         notas: ""
     },
     {
         idDispositivo: "TLW2-12B",
         dispositivo: "TLW2-12B",
         descripcion: "HABILITADO DE MOTOR",
-        comando: "RELAY,0#",
+        comando: "RELAY,0000,0#",
         notas: ""
     },
     {
         idDispositivo: "TLW2-12B",
         dispositivo: "TLW2-12B",
         descripcion: "ACTIVAR BUZZER",
-        comando: "DOUT2,1#",
+        comando: "DOUT2,0000,1#",
         notas: ""
     },
     {
         idDispositivo: "TLW2-12B",
         dispositivo: "TLW2-12B",
         descripcion: "DESACTIVAR BUZZER",
-        comando: "DOUT2,0#",
+        comando: "DOUT2,0000,0#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-10A",
         dispositivo: "TLW1-10A",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-10A",
         dispositivo: "TLW1-10A",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-10A",
         dispositivo: "TLW1-10A",
         descripcion: "BLOQUEO DE MOTOR",
-        comando: "RELAY,1#",
+        comando: "RELAY,0000,1#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-10A",
         dispositivo: "TLW1-10A",
         descripcion: "HABILITADO DE MOTOR",
-        comando: "RELAY,0#",
+        comando: "RELAY,0000,0#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-10A",
         dispositivo: "TLW1-10A",
         descripcion: "ACTIVAR BUZZER",
-        comando: "DOUT2,1#",
+        comando: "DOUT2,0000,1#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-10A",
         dispositivo: "TLW1-10A",
         descripcion: "DESACTIVAR BUZZER",
-        comando: "DOUT2,0#",
+        comando: "DOUT2,0000,0#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-8A",
         dispositivo: "TLW1-8A",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-8A",
         dispositivo: "TLW1-8A",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-8A",
         dispositivo: "TLW1-8A",
         descripcion: "BLOQUEO DE MOTOR",
-        comando: "RELAY,1#",
+        comando: "RELAY,0000,1#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-8A",
         dispositivo: "TLW1-8A",
         descripcion: "HABILITADO DE MOTOR",
-        comando: "RELAY,0#",
+        comando: "RELAY,0000,0#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-8A",
         dispositivo: "TLW1-8A",
         descripcion: "ACTIVAR BUZZER",
-        comando: "DOUT2,1#",
+        comando: "DOUT2,0000,1#",
         notas: ""
     },
     {
         idDispositivo: "TLW1-8A",
         dispositivo: "TLW1-8A",
         descripcion: "DESACTIVAR BUZZER",
-        comando: "DOUT2,0#",
+        comando: "DOUT2,0000,0#",
         notas: ""
     },
     {
         idDispositivo: "PIONNERX",
         dispositivo: "PIONNERX",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "PIONNERX",
         dispositivo: "PIONNERX",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "PIONNERX",
         dispositivo: "PIONNERX",
         descripcion: "BLOQUEO DE MOTOR",
-        comando: "RELAY,1#",
+        comando: "RELAY,0000,1#",
         notas: ""
     },
     {
         idDispositivo: "PIONNERX",
         dispositivo: "PIONNERX",
         descripcion: "HABILITADO DE MOTOR",
-        comando: "RELAY,0#",
+        comando: "RELAY,0000,0#",
         notas: ""
     },
     {
         idDispositivo: "PIONNERX",
         dispositivo: "PIONNERX",
         descripcion: "ACTIVAR BUZZER",
-        comando: "DOUT2,1#",
+        comando: "DOUT2,0000,1#",
         notas: ""
     },
     {
         idDispositivo: "PIONNERX",
         dispositivo: "PIONNERX",
         descripcion: "DESACTIVAR BUZZER",
-        comando: "DOUT2,0#",
+        comando: "DOUT2,0000,0#",
         notas: ""
     },
     {
         idDispositivo: "KNIGHTX-100",
         dispositivo: "KNIGHTX-100",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "KNIGHTX-100",
         dispositivo: "KNIGHTX-100",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLP1-P",
         dispositivo: "TLP1-P",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLP1-P",
         dispositivo: "TLP1-P",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLP1-LF",
         dispositivo: "TLP1-LF",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
      {
         idDispositivo: "TLP1-LF",
         dispositivo: "TLP1-LF",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "SOLARGUARDX-100",
         dispositivo: "SOLARGUARDX-100",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "SOLARGUARDX-100",
         dispositivo: "SOLARGUARDX-100",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "SOLARGUARDX-100",
         dispositivo: "SOLARGUARDX-100",
         descripcion: "APERTURA CANDADO",
-        comando: "UNLOCK#",
+        comando: "UNLOCK,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLP2-SFB",
         dispositivo: "TLP2-SFB",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLP2-SFB",
         dispositivo: "TLP2-SFB",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLP1-SF",
         dispositivo: "TLP1-SF",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLP1-SF",
         dispositivo: "TLP1-SF",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLD2-D",
         dispositivo: "TLD2-D",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "TLD2-D",
         dispositivo: "TLD2-D",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
         idDispositivo: "WARRIORX-100",
         dispositivo: "WARRIORX-100",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "GOOGLE#",
+        comando: "GOOGLE,0000#",
         notas: ""
     },
     {
         idDispositivo: "WARRIORX-100",
         dispositivo: "WARRIORX-100",
         descripcion: "REINICIAR EQUIPO",
-        comando: "REBOOT#",
+        comando: "REBOOT,0000#",
         notas: ""
     },
     {
