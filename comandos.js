@@ -682,14 +682,14 @@ const comandos = [
         idDispositivo: "TRACE5",
         dispositivo: "TRACE5",
         descripcion: "ACTUALIZAR POSICION",
-        comando: "RESET",
+        comando: "COORDS",
         notas: ""
     },
     {
         idDispositivo: "TRACE5",
         dispositivo: "TRACE5",
         descripcion: "REINICIAR EQUIPO",
-        comando: "COORDS",
+        comando: "RESET",
         notas: ""
     },
     {
@@ -815,7 +815,7 @@ const comandos = [
         idDispositivo: "ST4910",
         dispositivo: "ST4910",
         descripcion: "DESPERTAR DISPOSITIVO PASO 1",
-        comando: "CMD;ESN;03;05",
+        comando: "CMD;IMEI;03;05",
         notas: "SE DEBE SUSTITUIR 'IMEI' CON ID UNICO DE PLATAFORMA"
     },
     {
